@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mosesimbahale0
-- 👀 I’m interested in SW Development
+- 👀 I’m interested in SoftWare Development
 
 <!---
 mosesimbahale0/mosesimbahale0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
