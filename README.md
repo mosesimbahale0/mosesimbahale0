@@ -1,8 +1,8 @@
 Greetings! 🚀 I'm a dedicated software developer driven by a relentless desire to craft solutions that enhance the quality of people's lives, making their daily experiences both seamless and delightful. My journey in this dynamic realm has equipped me with proficiency across a diverse spectrum of programming languages, frameworks, and technologies, including JavaScript, Kotlin, React, Remix Run, GraphQL, Android, and a plethora of others. I thrive on the excitement of continually expanding my skill set and embarking on uncharted horizons within the ever-evolving world of software development.
 
-Feel free to explore some of my notable past projects, thoughtfully pinned below for your convenience. 👇
+Feel free to explore some of my notable past projects pinned below  👇
 
-
+  
 <!---
 - 👋 Hi, 👀 I’m a software developer with a passion for creating solutions that make people’s lives easier and more enjoyable. I have experience in various programming languages, frameworks, and technologies, such as JavaScript, Kotlin, React, Remix run, GraphQL, Android, and more. I love learning new skills and exploring new possibilities in the field of software development.
 
