@@ -1,4 +1,4 @@
-Greetings! 👋 I'm a dedicated software deveolper driven by a relentless desire to craft solutions that enhance the quality of people's lives, making their daily experiences both seamless and delightful. My journey in this dynamic realm has equipped me with proficiency across a diverse spectrum of programming languages, frameworks, and technologies, including JavaScript, React, Remix Run, GraphQL, Express, and a plethora of others.
+Greetings! 👋 I'm a dedicated software deveolper driven by a relentless desire to craft solutions that enhance the quality of people's lives, making their daily experiences both seamless and delightful. My journey in this dynamic realm has equipped me with proficiency across a diverse spectrum of programming languages, frameworks, and technologies, including JavaScript, React, Remix Run, GraphQL, Express, and many others.
 
 Feel free to explore some of my notable past projects pinned below  👇
 
