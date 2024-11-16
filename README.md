@@ -1,4 +1,8 @@
-👋 Hi, 👀 I’m a software engineer with a passion for crafting solutions that make people’s lives easier and more enjoyable. I have experience in various programming languages, frameworks, and technologies, I love learning new skills and exploring new possibilities in the field of software engineering.
 
-Feel free to explore some of my notable projects pinned below  👇
+👋 Hi! I’m a software engineer
 
+
+💻 Skilled in various programming languages, frameworks, and technologies.
+🚀 Always learning and excited to explore new ideas in software engineering.
+
+🏍️ Big MotoGP fan—nothing beats the thrill of fast bikes!
