@@ -6,4 +6,4 @@
 
 🚀 Always learning and excited to explore new ideas in software engineering.
 
-🏍️ Big MotoGP fan—nothing beats the thrill of fast bikes!
+🏍️ Big MotoGP fan—nothing beats the thrill of bikes!
