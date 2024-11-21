@@ -1,26 +1,46 @@
+# 👋 Hi there, welcome to my GitHub profile! 
 
-# Hi there 👋
+### About Me
+- 🌱 **Currently Exploring:**  
+  **KMP Development**, **Machine Learning**, **Spring Boot**, and other exciting technologies.  
+- 👯 **Looking to Collaborate On:**  
+  Projects like **[ExpertForms](https://github.com/mosesimbahale0/ExpertForms)** and **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep)**.  
+- 🔭 **Currently Working On:**  
+  **ExpertForms:** A proactive approach to content moderation powered by AI.  
+- 💬 **Ask Me About:**  
+  **JavaScript**, **Python**, **React**, **Remix-Run**, and more.  
+- 📫 **How to Reach Me:**  
+  Connect on [LinkedIn](https://www.linkedin.com/in/moses-imbahale).  
 
-Welcome to my GitHub profile! Here's a little about me:
-
-- 🌱 I’m currently learning **[KMP development, Machine Learning, Spring Boot etc.]**.
-- 👯 I’m looking to collaborate on **[ExpertForms, AutonomousKeep, etc. ]**.
-- 🔭 I’m currently working on **[ExpertForms : A proactive approach to Content moderation with AI]**.
-- 💬 Ask me about **[JavaScript, Python, Rect, Remix-run etc.]**.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/moses-imbahale).
-  
 ---
-- 🏍️ Big MotoGP fan—nothing beats the thrill of bikes!
-- ⚡ Fun fact: **[A little obsessed with Opening Cinematics... https://youtu.be/X6sBQfGHSFU?si=Iyo8v9MrW_-JgoD6 , https://youtu.be/O7hgjuFfn3A?si=GXMCwNqmZLu0Rja- ] If you got a collection of these lets connect and share notes 😊**.
+
+### Fun Facts 🚀
+- 🏍️ **MotoGP Enthusiast:** Nothing beats the thrill of high-speed bikes!  
+- ⚡ **Cinematic Obsession:**  
+  I love opening cinematics! Some of my favorites:  
+  - [World of Warcraft - Wrath of the Lich King](https://youtu.be/X6sBQfGHSFU)  
+  - [StarCraft II: Wings of Liberty](https://youtu.be/O7hgjuFfn3A)  
+  Got a collection? Let’s connect and share notes! 😊  
+
+---
 
 ### 🔧 Tools & Technologies
-- **Languages:** [Python, Typescript, ...]
-- **Frameworks & Libraries:** [React, Flask, FastAPI, Express, Remix-Run, TensorFlow etc.]
-- **Tools:** [Docker, https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme  etc.]
+#### **Languages:**  
+- Python, TypeScript, JavaScript  
 
+#### **Frameworks & Libraries:**  
+- React, Remix-Run, Flask, FastAPI, Express, TensorFlow  
 
-### 🚀 Projects
-- **[AutonomousKeep]([link-to-project](https://github.com/mosesimbahale0/AutonomousKeep))**: Short description.
-- **[ExpertFomms]([link-to-project](https://github.com/mosesimbahale0/ExpertForms))**: Short description.
+#### **Tools:**  
+- Docker, Git, VS Code with [SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme)
 
-Feel free to explore my repositories and connect with me! 😊
+---
+
+### 🚀 Featured Projects  
+#### **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep)**  
+A cutting-edge project streamlining [brief description of the purpose].  
+
+#### **[ExpertForms](https://github.com/mosesimbahale0/ExpertForms)**  
+An AI-powered content moderation system to foster healthier online interactions.  
+
+Feel free to explore my repositories and connect with me! Looking forward to building amazing things together. 😊  
