@@ -8,8 +8,10 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🔭 I’m currently working on **[ExpertForms : A proactive approach to Content moderation with AI]**.
 - 💬 Ask me about **[JavaScript, Python, Rect, Remix-run etc.]**.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/moses-imbahale).
+  
+---
 - 🏍️ Big MotoGP fan—nothing beats the thrill of bikes!
-- ⚡ Fun fact: **[A little obsessed with Opening Cinematics... https://youtu.be/X6sBQfGHSFU?si=Iyo8v9MrW_-JgoD6 , https://youtu.be/O7hgjuFfn3A?si=GXMCwNqmZLu0Rja- ]**.
+- ⚡ Fun fact: **[A little obsessed with Opening Cinematics... https://youtu.be/X6sBQfGHSFU?si=Iyo8v9MrW_-JgoD6 , https://youtu.be/O7hgjuFfn3A?si=GXMCwNqmZLu0Rja- ] If you got a collection of these lets connect and share notes 😊**.
 
 ### 🔧 Tools & Technologies
 - **Languages:** [Python, Typescript, ...]
