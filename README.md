@@ -21,23 +21,22 @@
 
 ## 🛠️ Tools & Technologies  
 
-### **Languages:**  
+ **Languages:**  
 - Python, TypeScript, Java  
 
-### **Frameworks & Libraries:**  
+**Frameworks & Libraries:**  
 - React, Remix-Run, Flask, FastAPI, Express, TensorFlow  
 
-### **Tools:**  
+ **Tools:**  
 - ([SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme))  
 
 
 
 ## 🚀 Featured Projects  
-
-### **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep)**  
+**[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep)**  
 A project streamlining research.  
 
-### **[ExpertForms](https://github.com/mosesimbahale0/ExpertForms)**  
+**[ExpertForms](https://github.com/mosesimbahale0/ExpertForms)**  
 An AI-powered content moderation system to foster healthier online interactions.  
 
 
