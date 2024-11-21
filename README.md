@@ -28,7 +28,7 @@
 - React, Remix-Run, Flask, FastAPI, Express, TensorFlow  
 
 ### **Tools:**  
-- Docker, Git, VS Code (with [SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme))  
+- ([SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme))  
 
 
 
