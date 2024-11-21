@@ -20,7 +20,7 @@
 Python, TypeScript, Java  
 
 **Frameworks & Libraries:**  
-React, Remix-Run, Flask, FastAPI, Express, TensorFlow  
+React, Remix-Run, Flask, FastAPI, Express, TensorFlow, Spring  
 
 **Tools:**  
 ([SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme))  
