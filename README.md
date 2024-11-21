@@ -65,7 +65,7 @@ An AI-powered content moderation system to foster healthier online interactions.
 - [Mortal Kombat](https://www.mortalkombat.com/en-us)  
 - [Need for Speed](https://www.ea.com/games/need-for-speed)  
 - [FIFA](https://www.ea.com/games/fifa)
-- ([Billards](https://play.google.com/store/apps/details?id=com.xs.pooltd&pcampaignid=web_share)) 
+- [Billards](https://play.google.com/store/apps/details?id=com.xs.pooltd&pcampaignid=web_share)) 
 
 Got a collection of games or opening cinematics? Let’s connect and exchange notes! 😊  
 
