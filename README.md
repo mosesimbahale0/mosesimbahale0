@@ -1,7 +1,8 @@
-# 👋 Hi there, welcome to my GitHub profile!  
+## 👋 Hi there, welcome to my GitHub profile!  
 
- ### 🌟 About Me
- 
+<details>
+  <summary> 🌟 About Me</summary>
+
 - 🌱 **Currently Exploring:** KMP Development, mastering the full lifecycle of Machine Learning from data to deployment, Spring Boot, and other exciting technologies.  
 - 🔭 **Currently Working On:**  **ExpertForms:** A proactive approach to content moderation powered by AI.  
 - 💬 **Ask Me About:** : **JavaScript**, **Python**, **React**, **Remix-Run** and more.  
@@ -9,7 +10,7 @@
 - 👯 **Looking to Collaborate On:**  
   - **[ExpertForms](https://github.com/mosesimbahale0/ExpertForms):** AI-powered content moderation for healthier online spaces.  
   - **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep):** Streamlining research with innovation.
-
+</details>
 
 ---
 
