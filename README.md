@@ -2,26 +2,19 @@
 
 ---
 
-<details>
-  <summary> 🌟 About Me</summary>
+ 🌟 About Me
 
 - 🌱 **Currently Exploring:**  
-  **KMP Development**, **Machine Learning**, **Spring Boot**, and other exciting technologies.  
+  **KMP Development**, **Machine Learning full Lifecycle**, **Spring Boot**, and other exciting technologies.  
 
 - 👯 **Looking to Collaborate On:**  
   - **[ExpertForms](https://github.com/mosesimbahale0/ExpertForms):** AI-powered content moderation for healthier online spaces.  
-  - **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep):** Streamlining research with innovation.  
+  - **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep):** Streamlining research with innovation.
+ 
+- 🔭 **Currently Working On:**  **ExpertForms:** A proactive approach to content moderation powered by AI.  
+- 💬 **Ask Me About:** : **JavaScript**, **Python**, **React**, **Remix-Run** and more.  
+- 📫 **How to Reach Me:** : Connect on [LinkedIn](https://www.linkedin.com/in/moses-imbahale).  
 
-- 🔭 **Currently Working On:**  
-  - **ExpertForms:** A proactive approach to content moderation powered by AI.  
-
-- 💬 **Ask Me About:**  
-  - **JavaScript**, **Python**, **React**, **Remix-Run**, and more.  
-
-- 📫 **How to Reach Me:**  
-  Connect on [LinkedIn](https://www.linkedin.com/in/moses-imbahale).  
-
-</details>
 
 ---
 
