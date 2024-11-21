@@ -58,7 +58,7 @@ An AI-powered content moderation system to foster healthier online interactions.
 ---
 
 <details>
-  <summary> 🎮 Gaming</summary>
+  <summary> 🎮 Gamer</summary>
 
 - [PUBG](https://pubg.com/en/main)  
 - [Mortal Kombat](https://www.mortalkombat.com/en-us)  
