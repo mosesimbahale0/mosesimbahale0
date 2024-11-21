@@ -1,7 +1,5 @@
 # 👋 Hi there, welcome to my GitHub profile!  
 
----
-
 ## 🌟 About Me  
 
 - 🌱 **Currently Exploring:**  
@@ -20,8 +18,30 @@
 - 📫 **How to Reach Me:**  
   Connect on [LinkedIn](https://www.linkedin.com/in/moses-imbahale).  
 
----
 
+## 🛠️ Tools & Technologies  
+
+### **Languages:**  
+- Python, TypeScript, Java  
+
+### **Frameworks & Libraries:**  
+- React, Remix-Run, Flask, FastAPI, Express, TensorFlow  
+
+### **Tools:**  
+- Docker, Git, VS Code (with [SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme))  
+
+
+
+## 🚀 Featured Projects  
+
+### **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep)**  
+A project streamlining research.  
+
+### **[ExpertForms](https://github.com/mosesimbahale0/ExpertForms)**  
+An AI-powered content moderation system to foster healthier online interactions.  
+
+
+---
 ## 🎉 Fun Facts  
 
 - 🏍️ **MotoGP Enthusiast:**  
@@ -41,28 +61,7 @@
 
 Got a collection? Let’s connect and exchange notes! 😊  
 
----
 
-## 🛠️ Tools & Technologies  
-
-### **Languages:**  
-- Python, TypeScript, Java  
-
-### **Frameworks & Libraries:**  
-- React, Remix-Run, Flask, FastAPI, Express, TensorFlow  
-
-### **Tools:**  
-- Docker, Git, VS Code (with [SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme))  
-
----
-
-## 🚀 Featured Projects  
-
-### **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep)**  
-A project streamlining research.  
-
-### **[ExpertForms](https://github.com/mosesimbahale0/ExpertForms)**  
-An AI-powered content moderation system to foster healthier online interactions.  
 
 ---
 
