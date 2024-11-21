@@ -3,7 +3,7 @@
 ---
 
 <details>
-  <summary>## 🌟 About Me</summary>
+  <summary> 🌟 About Me</summary>
 
 - 🌱 **Currently Exploring:**  
   **KMP Development**, **Machine Learning**, **Spring Boot**, and other exciting technologies.  
@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary>## 🛠️ Tools & Technologies</summary>
+  <summary> 🛠️ Tools & Technologies</summary>
 
 **Languages:**  
 Python, TypeScript, Java  
@@ -42,7 +42,7 @@ React, Remix-Run, Flask, FastAPI, Express, TensorFlow
 ---
 
 <details>
-  <summary>## 🚀 Featured Projects</summary>
+  <summary> 🚀 Featured Projects</summary>
 
 ### **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep)**  
 A project streamlining research.  
@@ -55,7 +55,7 @@ An AI-powered content moderation system to foster healthier online interactions.
 ---
 
 <details>
-  <summary>## 🎉 Fun Facts</summary>
+  <summary> 🎉 Fun Facts</summary>
 
 - 🏍️ **MotoGP Enthusiast:**  
   Nothing beats the thrill of high-speed bikes!  
@@ -70,14 +70,14 @@ An AI-powered content moderation system to foster healthier online interactions.
 ---
 
 <details>
-  <summary>## 🎮 Gaming</summary>
+  <summary> 🎮 Gaming</summary>
 
 - [PUBG](https://pubg.com/en/main)  
 - [Mortal Kombat](https://www.mortalkombat.com/en-us)  
 - [Need for Speed](https://www.ea.com/games/need-for-speed)  
 - [FIFA](https://www.ea.com/games/fifa)  
 
-Got a collection? Let’s connect and exchange notes! 😊  
+Got a collection of games or opening cinematics? Let’s connect and exchange notes! 😊  
 
 </details>
 
