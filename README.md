@@ -9,26 +9,15 @@
   - **[ExpertForms](https://github.com/mosesimbahale0/ExpertForms):** AI-powered content moderation for healthier online spaces.  
   - **[AutonomousKeep](https://github.com/mosesimbahale0/AutonomousKeep):** Streamlining research with innovation.  
 
-- 🔭 **Currently Working On:**  
-  - **ExpertForms:** A proactive approach to content moderation powered by AI.  
-
-- 💬 **Ask Me About:**  
-  - **JavaScript**, **Python**, **React**, **Remix-Run**, and more.  
-
-- 📫 **How to Reach Me:**  
-  Connect on [LinkedIn](https://www.linkedin.com/in/moses-imbahale).  
+- 🔭 **Currently Working On:** :  **ExpertForms:** A proactive approach to content moderation powered by AI.  
+- 💬 **Ask Me About:** : **JavaScript**, **Python**, **React**, **Remix-Run**, and more.  
+- 📫 **How to Reach Me:** : Connect on [LinkedIn](https://www.linkedin.com/in/moses-imbahale).  
 
 
 ## 🛠️ Tools & Technologies  
-
- **Languages:**  
-- Python, TypeScript, Java  
-
-**Frameworks & Libraries:**  
-- React, Remix-Run, Flask, FastAPI, Express, TensorFlow  
-
- **Tools:**  
-- ([SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme))  
+**Languages:**  : Python, TypeScript, Java  
+**Frameworks & Libraries:** : React, Remix-Run, Flask, FastAPI, Express, TensorFlow  
+**Tools:** : ([SpaceBox Theme](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-theme))  
 
 
 
@@ -61,7 +50,6 @@ An AI-powered content moderation system to foster healthier online interactions.
 Got a collection? Let’s connect and exchange notes! 😊  
 
 
-
 ---
 
-Feel free to explore my repositories and connect with me! Looking forward to building amazing things together. 😊  
+Feel free to explore my repositories and connect with me! Looking forward to building amazing things together.   
