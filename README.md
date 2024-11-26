@@ -3,7 +3,7 @@
 <details>
   <summary> 🌟 About Me</summary>
 
-- 🌱 **Currently Exploring:** KMP Development, mastering the full lifecycle of Machine Learning from data to deployment, Spring Boot, and other exciting technologies.  
+- 🌱 **Currently Exploring:** KMP Development, mastering the lifecycle of MLOPS, Spring Boot, and other exciting technologies.  
 - 🔭 **Currently Working On:**  **ExpertForms:** A proactive approach to content moderation powered by AI.  
 - 💬 **Ask Me About:** : **JavaScript**, **Python**, **React**, **Remix-Run** and more.  
 - 📫 **How to Reach Me:** : Connect on [LinkedIn](https://www.linkedin.com/in/moses-imbahale).
