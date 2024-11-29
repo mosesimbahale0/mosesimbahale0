@@ -18,7 +18,7 @@
   <summary> 🛠️ Tools & Technologies</summary>
 
 **Languages:**  
-Python, TypeScript, Java  
+Python, TypeScript, Java, Kotlin  
 
 **Frameworks & Libraries:**  
 React, Remix-Run, Flask, FastAPI, Express, TensorFlow, Spring  
