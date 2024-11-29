@@ -3,6 +3,7 @@
 You’re here, so either you’re lost, or you’re smart enough to know where the magic happens. Either way, feel free to gawk at my code. It’s not just genius — it’s the Picasso of programming… if Picasso was drunk, blindfolded, and painting with chimichanga grease.
 
 So, clone it, fork it, or just marvel at my greatness. But remember: if you break it, you buy it. 💥
+
 ---
 <details>
   <summary> 🌟 About Me</summary>
