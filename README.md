@@ -1,6 +1,5 @@
 ## 👋 Welcome to my GitHub profile
 
----
 <details>
   <summary> 🌟 About Me</summary>
 
