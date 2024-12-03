@@ -1,7 +1,4 @@
-## 👋 Oh, look who stumbled in! Welcome to my GitHub profile
-
-🎤You’re here, so either you’re lost, or you’re smart enough to know where the magic happens...  Either way, feel free to explore my code. It’s not just genius — it’s the Picasso of programming… if Picasso was drunk, blindfolded, and painting with chimichanga grease.
-So, clone it, fork it, or just marvel at my greatness. But remember: if you break it, you fixing it! 💥
+## 👋 Welcome to my GitHub profile
 
 ---
 <details>
