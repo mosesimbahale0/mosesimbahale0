@@ -1,5 +1,7 @@
 ## 👋 Welcome to my GitHub profile
 
+
+<details>
 <details>
   <summary> 🌟 About Me</summary>
 
@@ -68,6 +70,9 @@ An AI-powered content moderation system to foster healthier online interactions.
 - [Billards](https://play.google.com/store/apps/details?id=com.xs.pooltd&pcampaignid=web_share) 
 
 Got a collection of games or opening cinematics? Let’s connect and exchange notes! 😊  
+
+</details>
+
 
 </details>
 
