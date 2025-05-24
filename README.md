@@ -78,4 +78,4 @@ Got a collection of games or opening cinematics? Let’s connect and exchange no
 
 ---
 
-Feel free to explore my repositories and connect with me! Looking forward to building amazing things together. 😊  💻 Code responsibly, break things creatively!
+Feel free to explore my repositories and connect with me! Looking forward to building amazing things together. 😊  💻 Code responsibly!
